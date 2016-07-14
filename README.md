@@ -1,6 +1,6 @@
 ## raider API
 
-A simple web interface for [raider](https://github.com/michaelkrone/raider).
+A simple api server for [raider](https://github.com/michaelkrone/raider).
 
 Install dependencies with `npm i`, start with `[PORT={PORTNUMBER}] npm start`.
 Default port is 4001.
