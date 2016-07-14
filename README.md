@@ -1,4 +1,4 @@
-## raider online
+## raider API
 
 A simple web interface for [raider](https://github.com/michaelkrone/raider).
 
